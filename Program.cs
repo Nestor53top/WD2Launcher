@@ -11,17 +11,10 @@ class Program
     {
         Console.Title = "WD2 Launcher - EAC Bypass + Trainer";
         Console.ForegroundColor = ConsoleColor.Cyan;
-        Console.WriteLine(@"
- __        ___  ____   _____        __              
- \ \      / / |  _ \ / _ \ \      / /              
-  \ \ /\ / /__| | | | | | \ \ /\ / /               
-   \ V  V / _ \ | | | | | \ V  V /                
-    \_/\_/\___/___|_| |_| |\_/\_/                 
-    """;
-
-        Console.ForegroundColor = ConsoleColor.Yellow;
-        Console.WriteLine("  Watch Dogs 2 Launcher v1.0");
+        Console.WriteLine("===========================================");
+        Console.WriteLine("  WD2 LAUNCHER v1.0");
         Console.WriteLine("  EAC Bypass + Auto Trainer Install");
+        Console.WriteLine("===========================================");
         Console.ResetColor();
         Console.WriteLine();
 

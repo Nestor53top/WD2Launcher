@@ -7,7 +7,7 @@ namespace WD2Launcher;
 
 class ScriptHookDownloader
 {
-    private const string SCRIPTHOOK_URL = "https://github.com/Nomad-Group/WD2-ScriptHook/releases/latest/download/ScriptHook.zip";
+    private const string SCRIPTHOOK_URL = "https://www.nomad-group.net/scripthook/WD2_ScriptHook.zip";
 
     private static readonly HttpClient _httpClient = new();
 
