@@ -1,4 +1,4 @@
--- Commands
+-- Original Commands
 include("commands/spawn.lua")
 include("commands/teleport.lua")
 include("commands/skin.lua")
@@ -13,6 +13,9 @@ include("commands/progression.lua")
 include("commands/getpos.lua")
 include("commands/camera.lua")
 include("commands/hud.lua")
+
+-- Advanced Commands (50+ commands using full API)
+include("commands/advanced.lua")
 
 -- Menu
 include("menu/menu.lua")
