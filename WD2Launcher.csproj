@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>WD2Launcher</RootNamespace>
+    <AssemblyName>WD2Launcher</AssemblyName>
+    <Version>1.0.0</Version>
+    <Authors>WD2Launcher</Authors>
+    <Description>Watch Dogs 2 Launcher with EAC bypass and trainer injection</Description>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <PublishSingleFile>true</PublishSingleFile>
+    <SelfContained>false</SelfContained>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+  </PropertyGroup>
+
+</Project>
